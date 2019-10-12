@@ -10,7 +10,6 @@ def speak_to_grandma("phrase")
   
   end
   my_phrase
-
 end
 
 
